@@ -1,0 +1,1 @@
+/Users/dawchihliou/Sites/learning-rust/the-rust-programming-language/storing-lists-of-values-with-vectors/target/debug/storing-lists-of-values-with-vectors: /Users/dawchihliou/Sites/learning-rust/the-rust-programming-language/storing-lists-of-values-with-vectors/src/main.rs
