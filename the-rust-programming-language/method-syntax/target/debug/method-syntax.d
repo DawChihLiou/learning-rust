@@ -1,1 +1,0 @@
-/Users/dawchihliou/Sites/learning-rust/the-rust-programming-language/method-syntax/target/debug/method-syntax: /Users/dawchihliou/Sites/learning-rust/the-rust-programming-language/method-syntax/src/main.rs
