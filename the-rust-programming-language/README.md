@@ -62,3 +62,9 @@
 - [Generic Data Types](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/generic-data-types)
 - [Traits: Defining Shared Behavior](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/traits-defining-shared-behavior)
 - [Validating References with Lifetimes](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/validating-references-with-lifetimes)
+
+#### Chapter 11. Writing Automated Tests
+
+- [How to Write Tests](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/how-to-write-tests)
+- [Controlling How Tests Are Run](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/controlling-how-tests-are-run)
+- [Test Organization](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/test-organization)
