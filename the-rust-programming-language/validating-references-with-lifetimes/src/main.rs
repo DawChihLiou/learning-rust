@@ -12,6 +12,33 @@
  *
  * "Ultimately, lifetime syntax is about connecting the lifetimes
  * of various parameters and return values of functions."
+ * 
+ * Structs can hold references. Each reference should add a 
+ * lifetime annotation. For example:
+ * 
+ * ```
+ *  // The struct has a string slice reference. It means the struct 
+ *  // won't outlive the reference.
+ * 
+ *  struct ImportantExcerpt<'a> {
+ *      part: &'a str,
+ *  }
+ * ```
+ * 
+ * Lifetime elision rules are the common usecases that are programmed 
+ * into Rust compiler. For lifetimes, the compiler considers the 
+ * input lifetimes(function parameters) and output lifetimes(return 
+ * values). If it is deterministic, it will compile.
+ * 
+ * Three lifetime elision rules
+ * 
+ *  1. Each parameter gets its own lifetime parameter.
+ *  2. If there's only one input lifetime paramter, the lifetime is 
+ *     assigned to all output lifetime parameters.
+ *  3. If one of the input lifetime parameters is `&self` or `&mut self`, 
+ *     the lifetime of self is assigned to all output lifetime paramters.
+ * 
+ * 
  */
 
 // Enforce &x, &y, and the reference of the return slice to
