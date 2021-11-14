@@ -68,3 +68,13 @@
 - [How to Write Tests](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/how-to-write-tests)
 - [Controlling How Tests Are Run](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/controlling-how-tests-are-run)
 - [Test Organization](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/test-organization)
+
+
+#### Chapter 12. An I/O Project: Building a Command Line Program
+
+- [Accepting Command Line Arguments](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
+- [Reading a File](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
+- [Refactoring to Improve Modularity and Error Handling](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
+- [Developing the Library's Functionality with Test Driven Development](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
+- [Working with Environment Variables](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
+- [Writing Error Messages to Standard Error Instead of Standard output](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
