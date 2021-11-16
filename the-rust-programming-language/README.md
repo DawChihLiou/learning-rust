@@ -78,3 +78,10 @@
 - [Developing the Library's Functionality with Test Driven Development](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
 - [Working with Environment Variables](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
 - [Writing Error Messages to Standard Error Instead of Standard output](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
+
+#### Chapter 13. Functional Language Features: Iterators and Closures
+
+- [Closures: Anonymous Functions that Can Capture Their Environment](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/closures-anonymous-functions-that-can-capture-their-environment)
+- [Processing a Series of Items with Iterators](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/processing-a-series-of-items-with-iterators)
+- [Improving Our I/O Project](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/improving-our-io-project)
+- Comparing Performance: Loops vs. Iterators
