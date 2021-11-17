@@ -85,3 +85,11 @@
 - [Processing a Series of Items with Iterators](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/processing-a-series-of-items-with-iterators)
 - [Improving Our I/O Project](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/improving-our-io-project)
 - Comparing Performance: Loops vs. Iterators
+
+#### Chapter 14. More about Cargo and Crates.io
+
+- [Customizing Builds with Release Profiles](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/customizing-builds-with-release-profiles)
+- [Publishing a Crate to Crates.io](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/publishing-a-crate-to-cratesio)
+- [Cargo Workspaces](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/cargo-workspces)
+- Installing Binaries from Crates.io with cargo install
+- Extending Cargo with Custom Commands
