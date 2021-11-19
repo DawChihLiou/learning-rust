@@ -93,3 +93,12 @@
 - [Cargo Workspaces](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/cargo-workspces)
 - Installing Binaries from Crates.io with cargo install
 - Extending Cargo with Custom Commands
+
+#### Chapter 15. Smart Pointers
+
+- [Using Box<T> to Point to Data on the Heap](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/using-box-to-point-to-data-on-the-heap)
+- [Treating Smart Pointers Like Regular References with the Deref Trait](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/treating-smart-pointers-like-regular-references-with-the-deref-trait)
+- [Running Code on Cleanup with the Drop Trait](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/running-code-on-cleanup-with-the-drop-trait)
+- [Rc<T>, the Reference Counted Smart Pointer](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/rc-the-reference-counted-smart-pointer)
+- [RefCell<T> and the Interior Mutability Pattern](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/refcell-and-the-interior-mutability-pattern)
+- [Reference Cycles Can Leak Memory](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/guessing_game)
