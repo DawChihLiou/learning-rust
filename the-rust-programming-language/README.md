@@ -105,7 +105,7 @@
 
 #### Chapter 16. Fearless Concurrency
 
-- [Using Threads to Run Code Simultaneously]()
-- [Using Message Passing to Transfer Data Between Threads]()
-- [Shared-State Concurrency]()
+- [Using Threads to Run Code Simultaneously](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/using-threads-to-run-code-simultaneously)
+- [Using Message Passing to Transfer Data Between Threads](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/using-message-passing-to-transfer-data-between-threads)
+- [Shared-State Concurrency](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/shared-state-concurrency)
 - Extensible Concurrency with Sync and Send Traits 
