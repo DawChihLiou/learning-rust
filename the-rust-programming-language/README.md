@@ -102,3 +102,10 @@
 - [Rc<T>, the Reference Counted Smart Pointer](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/rc-the-reference-counted-smart-pointer)
 - [RefCell<T> and the Interior Mutability Pattern](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/refcell-and-the-interior-mutability-pattern)
 - [Reference Cycles Can Leak Memory](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/guessing_game)
+
+#### Chapter 16. Fearless Concurrency
+
+- [Using Threads to Run Code Simultaneously]()
+- [Using Message Passing to Transfer Data Between Threads]()
+- [Shared-State Concurrency]()
+- Extensible Concurrency with Sync and Send Traits 
