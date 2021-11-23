@@ -109,3 +109,9 @@
 - [Using Message Passing to Transfer Data Between Threads](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/using-message-passing-to-transfer-data-between-threads)
 - [Shared-State Concurrency](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/shared-state-concurrency)
 - Extensible Concurrency with Sync and Send Traits 
+
+#### Chapter 17. Object Oriented Programming Features of Rust
+
+- [Characteristics of Object-Oriented Languages](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/characteristics-of-object-oriented-languages)
+- [Using Trait Objects That Allow for Values of Different Types](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/using-trait-objects-that-allow-for-values-of-different-types)
+- Implementing an Object-Oriented Design Patter
