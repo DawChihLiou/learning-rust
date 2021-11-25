@@ -69,7 +69,6 @@
 - [Controlling How Tests Are Run](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/controlling-how-tests-are-run)
 - [Test Organization](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/test-organization)
 
-
 #### Chapter 12. An I/O Project: Building a Command Line Program
 
 - [Accepting Command Line Arguments](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/minigrep)
@@ -108,10 +107,16 @@
 - [Using Threads to Run Code Simultaneously](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/using-threads-to-run-code-simultaneously)
 - [Using Message Passing to Transfer Data Between Threads](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/using-message-passing-to-transfer-data-between-threads)
 - [Shared-State Concurrency](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/shared-state-concurrency)
-- Extensible Concurrency with Sync and Send Traits 
+- Extensible Concurrency with Sync and Send Traits
 
 #### Chapter 17. Object Oriented Programming Features of Rust
 
 - [Characteristics of Object-Oriented Languages](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/characteristics-of-object-oriented-languages)
 - [Using Trait Objects That Allow for Values of Different Types](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/using-trait-objects-that-allow-for-values-of-different-types)
 - Implementing an Object-Oriented Design Patter
+
+#### Chapter 18. Patterns and Matching
+
+- [All the Places Patterns Can Be Used](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/all-the-places-patterns-can-be-used)
+- [Refutability: Whether a Pattern Might Fail to Match](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/refutability-whenever-a-pattern-might-fail-to-match)
+- [Pattern Syntax](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/pattern-syntax)
