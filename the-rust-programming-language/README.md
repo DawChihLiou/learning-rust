@@ -120,3 +120,17 @@
 - [All the Places Patterns Can Be Used](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/all-the-places-patterns-can-be-used)
 - [Refutability: Whether a Pattern Might Fail to Match](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/refutability-whenever-a-pattern-might-fail-to-match)
 - [Pattern Syntax](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/pattern-syntax)
+
+#### Chapter 19. Advanced Features
+
+- [Unsafe Rust](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/unsafe-rust)
+- [Advanced Traits](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/advanced-traits)
+- [Advanced Types](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/advanced-types)
+- [Advanced Functions and Closures](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/advanced-functions-closures)
+- Macros
+
+#### Chapter 20. Final Project: Build a Multithreaded Web Server
+
+- [Building a Single-Threaded Web Server](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/hello-web-server)
+- [Turning Our Single-Threaded Server into a Multithreaded Server](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/hello-web-server)
+- [Graceful Shutdown and Cleanup](https://github.com/DawChihLiou/learning-rust/tree/main/the-rust-programming-language/hello-web-server)
